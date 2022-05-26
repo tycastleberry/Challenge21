@@ -1,10 +1,5 @@
 # KaseiCoin ERC-20 fungible token  .
 
-📌 Challenge 21
-
-> " Crowdsale of KaseiCoin created with solidity. A fungible token that is ERC-20 compliant. Deployed with Remix IDE and tested with Ganache and MetaMask".
-"
-
 ## Overview of the project 
 
 Creating a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
@@ -43,7 +38,7 @@ The steps for this Challenge are divided into the following sections:
 
 
 
-![6](Screenshots/21.6.mov)
+![6](https://github.com/tycastleberry/Challenge21/blob/main/Screenshots/21.6.mov)
 
 ![7](https://raw.githubusercontent.com/tycastleberry/Challenge21/main/Screenshots/21.7.png)
 
