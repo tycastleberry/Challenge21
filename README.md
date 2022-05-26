@@ -38,7 +38,7 @@ The steps for this Challenge are divided into the following sections:
 
 
 
-![6](https://github.com/tycastleberry/Challenge21/blob/main/Screenshots/21.6.mov)
+![6](https://github.com/tycastleberry/Challenge21/blob/aea6da55562338f1e0fbc78bb43a686e06ced439/Screenshots/21.6.mov)
 
 ![7](https://raw.githubusercontent.com/tycastleberry/Challenge21/main/Screenshots/21.7.png)
 
