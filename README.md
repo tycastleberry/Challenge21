@@ -37,8 +37,8 @@ The steps for this Challenge are divided into the following sections:
 ![5](https://raw.githubusercontent.com/tycastleberry/Challenge21/main/Screenshots/21.5.png)
 
 
+https://user-images.githubusercontent.com/69871242/170427950-28158090-0010-4a5d-bac0-a428be4ac46c.mov
 
-![6](https://github.com/tycastleberry/Challenge21/blob/aea6da55562338f1e0fbc78bb43a686e06ced439/Screenshots/21.6.mov)
 
 ![7](https://raw.githubusercontent.com/tycastleberry/Challenge21/main/Screenshots/21.7.png)
 
@@ -58,8 +58,8 @@ The steps for this Challenge are divided into the following sections:
     5. Record a short video or take several screenshots that show the deployed contract in action.
 
 
+https://user-images.githubusercontent.com/69871242/170428006-93dab033-200d-4e7d-891a-b229d0151fa5.mov
 
-![11](Screenshots/21.11.mov)
 
 ![12](https://raw.githubusercontent.com/tycastleberry/Challenge21/main/Screenshots/21.12.png)
 
